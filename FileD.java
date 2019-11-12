@@ -1,4 +1,4 @@
-package preco;
+ package preco;
 
 public class FileA {
 
